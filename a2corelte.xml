@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Unified Exynos 7870 Trees -->
+  <project path="device/samsung/universal7870-common" name="Exynos7870-Revived-Beta/android_device_samsung_universal7870-common" remote="github" revision="lineage-19.1" />
+  <project path="device/samsung/a2corelte" name="Minionguyjpro/android_device_samsung_a2corelte" remote="github" revision="lineage-18.1" />
+  <project path="kernel/samsung/universal7870" name="Exynos7870-Revived-Beta/android_kernel_samsung_universal7870" remote="github" revision="lineage-19.1" />
+  <project path="vendor/samsung/universal7870-common" name="Exynos7870-Revived-Beta/android_vendor_samsung_universal7870-common" remote="github" revision="lineage-19.1" />
+</manifest>
